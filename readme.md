@@ -11,10 +11,10 @@ In here I used the following tools, frameworks
 
 ## Here are the some screen shots
 <p align="center">
-<img src="http://www.labourjoin.com/scr/admin_home.png"><br>
-<img src="http://www.labourjoin.com/scr/city_edit.png"><br>
-<img src="http://www.labourjoin.com/scr/data_calculation.png"><br>
-<img src="http://www.labourjoin.com/scr/report_full.png"><br>
-<img src="http://www.labourjoin.com/scr/user_manage.png"><br>
-<img src="http://www.labourjoin.com/scr/set_dictionary_data.png"><br>
+<img src="http://icproj.tsog.info/scr/admin_home.png"><br>
+<img src="http://icproj.tsog.info/scr/city_edit.png"><br>
+<img src="http://icproj.tsog.info/scr/data_calculation.png"><br>
+<img src="http://icproj.tsog.info/scr/report_full.png"><br>
+<img src="http://icproj.tsog.info/scr/user_manage.png"><br>
+<img src="http://icproj.tsog.info/scr/set_dictionary_data.png"><br>
 </p>
